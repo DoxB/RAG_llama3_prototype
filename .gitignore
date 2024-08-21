@@ -3,3 +3,4 @@ __pycache__/
 models/
 qdrant/
 *.pdf
+/data_source
